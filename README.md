@@ -17,28 +17,19 @@
 ### 🚀 About Me
 
 - 💼 **Data Scientist & Engineer** at **[Arifpay Financial Technologies S.C.](https://arifpay.net)** (Ethiopia's licensed Payment System Operator), building enterprise conversational RAG engines, developer FastMCP servers, and transaction risk models.
-- 🧠 Author of **[DevLoop Engine](https://github.com/Seife1/Devloop-Engine)** — an autonomous, local-first Model Context Protocol (FastMCP) server and spaced-repetition developer engine for AI pair programming.
+- 🧠 Author of **[LearnLoop](https://github.com/Seife1/Devloop-Engine)** — an autonomous, local-first Model Context Protocol (FastMCP) server and spaced-repetition developer engine for AI pair programming.
 - 🎓 **B.Sc. in Electrical and Computer Engineering** from **Addis Ababa University (AAU / AAiT)** — *Graduated with Distinction*.
 - 🏅 **AI Engineering Mastery Graduate** from **10 Academy** (Kifiya AI Mastery Training, intensive FinTech focus).
 - 📍 Based in **Addis Ababa, Ethiopia**.
 
 ---
 
-### 🛠️ Core Engineering Stack
-
-```
-AI, ML & VISION   ▸ FastMCP · PyTorch · TensorFlow · Keras · scikit-learn · Hugging Face · OpenCV · YOLOv8 · LangChain · RAG
-DATA & LAKEHOUSE  ▸ PySpark · Apache Spark · Apache Airflow · dbt Core · Apache Hudi · Apache NiFi · ETL Pipelines
-DATA ANALYSIS     ▸ Pandas · NumPy · Matplotlib · Plotly · Feature Engineering · Statistical Modeling · A/B Testing
-MLOPS & TOOLS     ▸ MLflow · DVC · DAGsHub · Docker · Linux · Shell Scripting · Git/GitHub · CI/CD
-BACKEND & APIS    ▸ Python · FastAPI · Flask · Node.js · Express · WebSockets · Celery · Redis · REST APIs
-DATABASES         ▸ PostgreSQL · MySQL · MongoDB · SQLite
-FRONTEND & MOBILE▸ Flutter · Dart · TypeScript · JavaScript · React · Next.js · Tailwind CSS · HTML5/CSS3
-SYSTEMS & CORE    ▸  Open3D · PDAL · Postman
-```
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=560&lines=%E2%9A%92%EF%B8%8F+Core+Engineering+Stack;AI%2C+Agentic+Protocols+%26+Computer+Vision;Distributed+Data+Lakehouse+%26+MLOps;Full+Stack+Web+%26+Mobile+Engineering" alt="Core Engineering Stack" />
+</div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,dart,c,cpp,html,css,bash,pytorch,tensorflow,sklearn,opencv,fastapi,flask,nodejs,express,flutter,react,nextjs,tailwind,postgres,mysql,mongodb,sqlite,redis,docker,cloudflare,git,linux,postman,figma&perline=8" alt="Tech Skills" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,dart,c,cpp,html,css,bash,pytorch,tensorflow,sklearn,opencv,fastapi,flask,nodejs,express,flutter,react,nextjs,tailwind,postgres,mysql,mongodb,sqlite,redis,docker,cloudflare,git,linux,postman&perline=8" alt="Tech Skills" />
 </p>
 
 <p align="center">
