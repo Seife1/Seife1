@@ -16,8 +16,8 @@
 
 ### 🚀 About Me
 
-- 💼 **Data Scientist & Engineer** at **[Arifpay Financial Technologies S.C.](https://arifpay.net)**, building enterprise conversational RAG engines, developer FastMCP servers, and transaction risk models.
-- 🧠 Author of **[LearnLoop](https://github.com/Seife1/Devloop-Engine)** — an autonomous, local-first Model Context Protocol (FastMCP) server and spaced-repetition developer engine for AI pair programming.
+- 💼 **Data Scientist & Engineer** at **[Arifpay Financial Technologies S.C.](https://arifpay.net)** (Ethiopia's licensed Payment System Operator), building enterprise conversational RAG engines, developer FastMCP servers, and transaction risk models.
+- 🧠 Author of **[DevLoop Engine](https://github.com/Seife1/Devloop-Engine)** — an autonomous, local-first Model Context Protocol (FastMCP) server and spaced-repetition developer engine for AI pair programming.
 - 🎓 **B.Sc. in Electrical and Computer Engineering** from **Addis Ababa University (AAU / AAiT)** — *Graduated with Distinction*.
 - 🏅 **AI Engineering Mastery Graduate** from **10 Academy** (Kifiya AI Mastery Training, intensive FinTech focus).
 - 📍 Based in **Addis Ababa, Ethiopia**.
@@ -27,14 +27,31 @@
 ### 🛠️ Core Engineering Stack
 
 ```
-AI & AGENTS       ▸ FastMCP · Model Context Protocol (MCP) · LangChain · PyTorch · RAG · HNSWlib
-DATA & LAKEHOUSE  ▸ PySpark · dbt Core · Apache Airflow · Apache Hudi · MLflow
-BACKEND & APIS    ▸ Python · FastAPI · PostgreSQL · MySQL · Redis · Docker · WebSockets
-FRONTEND & WEB    ▸ TypeScript · Next.js · React · Tailwind CSS · Cloudflare Workers
+AI, ML & VISION   ▸ FastMCP · PyTorch · TensorFlow · Keras · scikit-learn · Hugging Face · OpenCV · YOLOv8 · LangChain · RAG
+DATA & LAKEHOUSE  ▸ PySpark · Apache Spark · Apache Airflow · dbt Core · Apache Hudi · Apache NiFi · ETL Pipelines
+DATA ANALYSIS     ▸ Pandas · NumPy · Matplotlib · Plotly · Feature Engineering · Statistical Modeling · A/B Testing
+MLOPS & TOOLS     ▸ MLflow · DVC · DAGsHub · Docker · Linux · Shell Scripting · Git/GitHub · CI/CD
+BACKEND & APIS    ▸ Python · FastAPI · Flask · Node.js · Express · WebSockets · Celery · Redis · REST APIs
+DATABASES         ▸ PostgreSQL · MySQL · MongoDB · SQLite
+FRONTEND & MOBILE▸ Flutter · Dart · TypeScript · JavaScript · React · Next.js · Tailwind CSS · HTML5/CSS3
+SYSTEMS & CORE    ▸  Open3D · PDAL · Postman
 ```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,fastapi,postgres,docker,cloudflare,git,linux,tailwind,pytorch" alt="Tech Skills" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,dart,c,cpp,html,css,bash,pytorch,tensorflow,sklearn,opencv,fastapi,flask,nodejs,express,flutter,react,nextjs,tailwind,postgres,mysql,mongodb,sqlite,redis,docker,cloudflare,git,linux,postman,figma&perline=8" alt="Tech Skills" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" alt="Apache Airflow" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
+  <img src="https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white" alt="DVC" />
 </p>
 
 ---
@@ -43,12 +60,13 @@ FRONTEND & WEB    ▸ TypeScript · Next.js · React · Tailwind CSS · Cloudfla
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| 🔄 **[DevLoop Engine](https://github.com/Seife1/Devloop-Engine)** | Autonomous FastMCP deliberate-practice engine tracking coding intent, intent-commit reconciliation, and offline SM-2 spaced repetition for Cursor, Claude Code, and Windsurf. | `Python` `FastMCP` `SQLite` `AsyncIO` |
+| 🔄 **[LearnLoop](https://github.com/Seife1/Devloop-Engine)** | Autonomous FastMCP deliberate-practice engine tracking coding intent, intent-commit reconciliation, and offline SM-2 spaced repetition for Cursor, Claude Code, and Windsurf. | `Python` `FastMCP` `SQLite` `AsyncIO` |
 | ⚡ **[Arifpay FastMCP DX Server](https://mcp.arifpay.net)** | Enterprise 3-tier MCP gateway (Learn, Validate, Act) with sandbox simulation, constant-time HMAC verification, and SSE/HTTP dual transport. | `Python` `FastMCP` `Pydantic v2` `Docker` |
-| 💬 **[Arifbot Enterprise RAG](https://arifpay.net)** | Multi-channel production AI assistant with domain knowledge isolation, in-memory HNSW vector search, sub-second streaming, and live CRM human escalation. | `FastAPI` `React` `HNSWlib` `WebSockets` |
+| 💬 **[Arifbot Enterprise RAG](https://arifpay.net)** | Multi-channel production AI assistant with domain knowledge isolation, in-memory HNSW vector search, sub-second streaming, and live CRM human escalation. *Click the bubble and interact with it*| `FastAPI` `React` `HNSWlib` `WebSockets` |
 | 🏥 **[Medical Lakehouse & YOLO](https://github.com/Seife1/Data-Warehouse-and-Object-Detection)** | E-commerce data lakehouse scraping Ethiopian medical Telegram channels with dbt star-schema modeling and live YOLOv8 object detection microservice. | `PostgreSQL` `dbt Core` `YOLOv8` `FastAPI` |
-| 🌐 **[Synapse Portfolio](https://github.com/Seife1/personal-portfolio)** | Cognitive knowledge-graph portfolio powered by Next.js 15, Cloudflare Workers runtime, and interactive force-directed graph physics. | `Next.js 15` `TypeScript` `Tailwind` `Cloudflare` |
-| ⚽ **[MedaZone](https://github.com/Seife1/meda-zone)** | High-concurrency football field booking and reservation management platform for Addis Ababa sports venues. | `TypeScript` `Next.js` `PostgreSQL` |
+| 🌐 **[Portfolio](https://github.com/Seife1/personal-portfolio)** | Cognitive knowledge-graph portfolio powered by Next.js 15, Cloudflare Workers runtime, and interactive force-directed graph physics. | `Next.js 15` `TypeScript` `Tailwind` `Cloudflare` |
+| ⚽ **[MedaZone](https://github.com/Seife1/meda-zone)** | High-concurrency football field booking and reservation management platform for Addis Ababa sports venues. | `Flutter` `FastAPI` `PostgreSQL` |
+| ⛽ **[Fuelink](https://github.com/Seife1/Fuelink)** | Real-time fuel station discovery, availability tracking, and queue management platform with live location telemetry. | `Flutter` `FastAPI` `PostgreSQL` |
 
 ---
 
